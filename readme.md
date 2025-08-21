@@ -20,7 +20,7 @@ It encrypts files inside a **sandbox directory** only (`./SafeRansomLab_Sandbox`
 ✅ Simulates ransomware file deletion by moving originals to `.deleted/`  
 ✅ Uses a simple XOR-based stream cipher with SHA-256 keystream  
 ✅ Provides a **demo lock screen** with Tkinter (fullscreen popup)  
-✅ Includes demo key: **`FUCKWORLD`**  
+✅ Includes demo key: **`RlVDS1dPUkxE(Decrypt its BASE64)`**  
 ✅ Safe — operates **only** inside `./SafeRansomLab_Sandbox`  
 
 ---
