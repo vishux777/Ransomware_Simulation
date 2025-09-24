@@ -8,7 +8,7 @@ DO NOT run this code outside a virtual machine or isolated environment.
 It encrypts files inside ./SafeRansomLab_Sandbox, simulates file deletion,
 locks the screen, and requires a key to decrypt.
 
-Key used in this demo: FUCKWORLD
+Key used in this demo: 
 
 Running this on a real system can cause harm. You have been warned.
 """
